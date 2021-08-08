@@ -53,11 +53,16 @@ label {
     font-size: .8em;
 }
 
+input, select, textarea {
+    border-radius: 4px;
+}
+
 button {
     height: 40px;
     width: 100%;
     font-size: 1.2em;
     background-color: lightgreen;
+    border-radius: 4px;
 }
 
 footer p {
