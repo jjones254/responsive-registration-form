@@ -55,6 +55,7 @@ label {
 
 input, select, textarea {
     border-radius: 4px;
+    border-style: none;
 }
 
 button {
@@ -126,12 +127,12 @@ input:not(:focus), select:not(:focus), textarea:not(:focus) {
         flex-grow: 0;
     }
 
-    .contact input {
-        flex-basis: 80%;
+    .contact input, select {
+        flex-basis: 100%;
     }
 
     #zip {
-        flex-basis: 20%;
+        flex-basis: 25%;
     }
 
 
