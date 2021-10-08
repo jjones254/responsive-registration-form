@@ -4,14 +4,14 @@
 
 ### Project Instructions ###
 
-* [X] For this project we will be checking the design in Google Chrome version 48 or higher. Different browsers display forms slightly differently so please make sure it looks correct in Google Chrome before submitting.
+* [X] For this project we will be checking the design in Google Chrome version 48 or higher. Different browsers display forms slightly differently so please make sure it looks         correct in Google Chrome before submitting.
 
 * [X] Build the layout using a mobile first design:
   * Make sure the HTML file includes the viewport meta tag in the head of the document.
   * Look at the provided mockup (mobile-form.png) and add the same content to your index.html file.
 
 * [X] Create the form structure:
-Only use one `<form>` tag. The `<form>` tag should contain all the form elements. Add a fieldset and legend for each of the following sections:
+  Only use one `<form>` tag. The `<form>` tag should contain all the form elements. Add a fieldset and legend for each of the following sections:
   * "Contact Information" section of the page, and
   * The "Newsletter" section of the page
 
@@ -30,7 +30,7 @@ Only use one `<form>` tag. The `<form>` tag should contain all the form elements
   * `select` and `textarea`: should include `id` and `name` attributes.
 
 * [X] Add labels to each form element using the HTML `<label>` tag. The text inside the labels should match the names of the form fields in the mockups.
-  * Make sure you properly pair each `<label>` element with its corresponding form control via the `for` attribute. Don't forget about the textarea element. That needs a functioning label too.
+  * Make sure you properly pair each `<label>` element with its corresponding form control via the `for` attribute. Don't forget about the textarea element. That needs a             functioning label too.
 
 * [X] Use the input field's `placeholder` attribute to add the text "required" to:
   * the Full Name field
